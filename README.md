@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **saigeethabalaji19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S7CggNdXcK65phlTMdkDjmMmTmATXJpF/view?usp=sharing](https://drive.google.com/file/d/1S7CggNdXcK65phlTMdkDjmMmTmATXJpF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/106m_wd49LY6gCqctcUwHG8mcnMjaqwrY/view?usp=sharing]
 
 - ⚡ Fun fact **I'm a moviebuff and a singer**
 
