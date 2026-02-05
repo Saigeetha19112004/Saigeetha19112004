@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saigeetha Balaji</h1>
 <h3 align="center">Building scalable solutions in AI/ML & full-stack</h3>
 
-- 🔭 I’m currently working on [Car Lease System](https://github.com/Saigeetha19112004/Car-lease-systems)
-
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Matplotlib, MATLAB, Power BI, GitHub, Git**
 
 - 📫 How to reach me **saigeethabalaji19@gmail.com**
